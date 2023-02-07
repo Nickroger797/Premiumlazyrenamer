@@ -50,10 +50,10 @@ async def start(client, message):
         await message.reply_photo(photo=LAZY_PIC,
                                 caption=txt,
                                 reply_markup=InlineKeyboardMarkup(
-                                      [[InlineKeyboardButton("🔺 Update Channel 🔺", url="https://t.me/LazyDeveloper")],
-                                      [InlineKeyboardButton("🦋 Subscribe us 🦋", url="https://youtube.com/@LazyDeveloperr")],
-                                      [InlineKeyboardButton("Support Group", url='https://t.me/LazyPrincessSupport'),
-                                      InlineKeyboardButton("Movie Channel", url='https://t.me/real_MoviesAdda2')],
+                                      [[InlineKeyboardButton("🍿 Movies Point 🍿", url="https://t.me/allmoviesherejoinhindi")],
+                                      [InlineKeyboardButton("🦋 join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
+                                      [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
+                                      InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
                                       [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
                                       ]))
         return
@@ -64,10 +64,10 @@ async def start(client, message):
                 await message.reply_photo(photo=LAZY_PIC,
                                          caption=txt,
                                          reply_markup=InlineKeyboardMarkup(
-                                             [[InlineKeyboardButton("🔺 Update Channel 🔺", url="https://t.me/LazyDeveloper")],
-                                              [InlineKeyboardButton("🦋 Subscribe us 🦋", url="https://youtube.com/@LazyDeveloperr")],
-                                              [InlineKeyboardButton("Support Group", url='https://t.me/LazyPrincessSupport'),
-                                             InlineKeyboardButton("Movie Channel", url='https://t.me/real_MoviesAdda2')],
+                                             [[InlineKeyboardButton("🍿 Movies Point 🍿", url="https://t.me/allmoviesherejoinhindi")],
+                                              [InlineKeyboardButton("🦋 Join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
+                                              [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
+                                             InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
                                              [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
                                           ]))
             except:
@@ -84,10 +84,10 @@ async def start(client, message):
 	**Document Or Video** and enter new filename to rename it__
 	""", reply_to_message_id=message.id,
                                      reply_markup=InlineKeyboardMarkup(
-                                         [[InlineKeyboardButton("🔺 Update Channel 🔺", url="https://t.me/LazyDeveloper")],
-                                          [InlineKeyboardButton("🦋 Subscribe us 🦋", url="https://youtube.com/@LazyDeveloperr")],
-                                          [InlineKeyboardButton("Support Group", url='https://t.me/LazyPrincessSupport'),
-                                          InlineKeyboardButton("Movie Channel", url='https://t.me/real_MoviesAdda2')],
+                                         [[InlineKeyboardButton("🍿 Movies Point 🍿", url="https://t.me/allmoviesherejoinhindi")],
+                                          [InlineKeyboardButton("🦋 Join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
+                                          [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
+                                          InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
                                           [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
                                           ]))
     
