@@ -54,7 +54,7 @@ async def start(client, message):
                                       [InlineKeyboardButton("🦋 join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
                                       [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
                                       InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
-                                      [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
+                                      [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://paytm.me/t6jc-6v')]
                                       ]))
         return
     if id:
@@ -68,7 +68,7 @@ async def start(client, message):
                                               [InlineKeyboardButton("🦋 Join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
                                               [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
                                              InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
-                                             [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
+                                             [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://paytm.me/t6jc-6v')]
                                           ]))
             except:
                 return
@@ -88,7 +88,7 @@ async def start(client, message):
                                           [InlineKeyboardButton("🦋 Join us 🦋", url="https://t.me/allmoviesherejoinhindi")],
                                           [InlineKeyboardButton("😍 Support Group 😍", url='https://t.me/BlackAdamHindi720phd'),
                                           InlineKeyboardButton("⚡ Backup Group ⚡", url='https://t.me/pornvideodownloadhd')],
-                                          [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://p.paytm.me/xCTH/vo37hii9')]
+                                          [InlineKeyboardButton("☕ Buy Me A Coffee ☕", url='https://paytm.me/t6jc-6v')]
                                           ]))
     
 
