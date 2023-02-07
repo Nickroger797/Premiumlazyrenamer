@@ -60,5 +60,5 @@ async def upgradecm(bot,message):
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mdiskbot200")], 
         			[InlineKeyboardButton("Silver Plan 💰Rs80💰",url = "https://p.paytm.me/xCTH/vo37hii9"),
         			InlineKeyboardButton("Gold Plan 💰Rs150💰",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]]),
-                                [InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "")]
+                                [InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "https://p.paytm.me/xCTH/vo37hii9")]
 	await message.reply_text(text = text,reply_markup = keybord)
