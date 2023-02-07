@@ -28,8 +28,8 @@ async def upgrade(bot,update):
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mdiskbot200")], 
         			[InlineKeyboardButton("Silver Plan 💰Rs80💰",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Gold Plan 💰Rs150💰",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
-                                InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "")]
+        			InlineKeyboardButton("Gold Plan 💰Rs150💰",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]]),
+                                [InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "https://p.paytm.me/xCTH/vo37hii9")]
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
@@ -59,6 +59,6 @@ async def upgradecm(bot,message):
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mdiskbot200")], 
         			[InlineKeyboardButton("Silver Plan 💰Rs80💰",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Gold Plan 💰Rs150💰",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
-                                InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "")]
+        			InlineKeyboardButton("Gold Plan 💰Rs150💰",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]]),
+                                [InlineKeyboardButton("Diamond Plan 💰Rs250💰",url = "")]
 	await message.reply_text(text = text,reply_markup = keybord)
